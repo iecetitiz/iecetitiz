@@ -1,9 +1,5 @@
-![Uploading Cosmic_Cliffs.jpg…]()
-
 - 👋 Hi, I’m Ece
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java, SQL, Machine Learning
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Data Science and Machine Learning
 - 📫 How to reach me --> ece.titiz@std.ieu.edu.tr
 
 <!---
