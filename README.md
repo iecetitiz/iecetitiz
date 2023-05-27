@@ -1,3 +1,5 @@
+![Uploading Cosmic_Cliffs.jpg…]()
+
 - 👋 Hi, I’m Ece
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java, SQL, Machine Learning
